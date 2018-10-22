@@ -8,6 +8,7 @@
 3. [匿名Struct技巧](src/skill/struct/README.md)
 4. [判断Nil技巧](src/skill/nil/README.md)
 5. [Float相乘技巧](src/skill/float/README.md)
+6. [数组遍历技巧](src/skill/for/README.md)
 
 ## 性能优化
 
