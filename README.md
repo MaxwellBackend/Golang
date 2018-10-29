@@ -3,13 +3,13 @@
 ## 面试题
 
 ## 语言技巧
-1. [Json解析技巧](src/skill/json/README.md)
-2. [错误封装技巧](src/skill/error/README.md)
-3. [匿名Struct技巧](src/skill/struct/README.md)
-4. [判断Nil技巧](src/skill/nil/README.md)
-5. [Float相乘技巧](src/skill/float/README.md)
-6. [数组遍历技巧](src/skill/for/README.md)
-7. [Set使用技巧](src/skill/set/README.md)
+1. [实现不同格式的JSON数据解析](src/skill/json/README.md)
+2. [让Error包含更多的错误信息](src/skill/error/README.md)
+3. [匿名Struct的大用途](src/skill/struct/README.md)
+4. [interface做为返回参数的Nil判断](src/skill/nil/README.md)
+5. [精准的浮点数运算](src/skill/float/README.md)
+6. [更快的For遍历](src/skill/for/README.md)
+7. [更省的Exists判断](src/skill/set/README.md)
 
 ## 性能优化
 
