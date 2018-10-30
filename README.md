@@ -9,7 +9,7 @@
 4. [interface做为返回参数的Nil判断](src/skill/nil/README.md)
 5. [精准的浮点数运算](src/skill/float/README.md)
 6. [更快的For遍历](src/skill/for/README.md)
-7. [更省的Exists判断](src/skill/set/README.md)
+7. [更省的Exists判断](src/skill/exists/README.md)
 
 ## 性能优化
 

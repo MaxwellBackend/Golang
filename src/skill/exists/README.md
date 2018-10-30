@@ -9,10 +9,10 @@
 goos: linux
 goarch: amd64
 pkg: skill/set
-BenchmarkIssetWithInterface-2   	 3000000	       398 ns/op	      71 B/op	       0 allocs/op
-BenchmarkIssetWithStruct-2      	 5000000	       320 ns/op	      25 B/op	       0 allocs/op
-BenchmarkIssetWithBool-2        	 5000000	       336 ns/op	      29 B/op	       0 allocs/op
-BenchmarkIssetWithInt-2         	 5000000	       418 ns/op	      55 B/op	       0 allocs/op
+BenchmarkExistsWithInterface-2   	 3000000	       398 ns/op	      71 B/op	       0 allocs/op
+BenchmarkExistsWithStruct-2      	 5000000	       320 ns/op	      25 B/op	       0 allocs/op
+BenchmarkExistsWithBool-2        	 5000000	       336 ns/op	      29 B/op	       0 allocs/op
+BenchmarkExistsWithInt-2         	 5000000	       418 ns/op	      55 B/op	       0 allocs/op
 PASS
 ok  	skill/set	8.043s
 ```
