@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="117823be-00ea-45db-8d02-9f318bab2b63" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MaxwellBackend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="439" />
+    <option name="y" value="33" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MaxwellBackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaxwellBackend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/algorithm/map/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/algorithm/map/map.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/algorithm/struct/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/algorithm/struct/struct.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/bibao/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/bibao/bibao2.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/bibao/bigao.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/const/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/const/const.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/defer/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/defer/defer.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/defer/defer2.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/defer/panic.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/foreach/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/foreach/foreach.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/goto/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/goto/goto.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/inherit/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/inherit/inherit.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/select/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/select/select.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/slice/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/grammar/slice/append.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/interface/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/interface/interface.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/interview/interface/type.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/error/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/error/error.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/error/error_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/exists/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/exists/exists.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/exists/exists_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/float/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/float/float.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/float/float_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/for/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/for/for.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/for/for_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/json/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/json/json.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/json/json_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/nil/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/nil/nil.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/nil/nil_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/struct/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/struct/struct.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skill/struct/struct_test.go</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/algorithm/map/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/algorithm/map/map.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/algorithm/struct/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/algorithm/struct/struct.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/bibao/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/bibao/bibao2.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/bibao/bigao.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/const/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/const/const.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/defer/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/defer/defer.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/defer/defer2.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/defer/panic.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/foreach/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/foreach/foreach.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/goto/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/goto/goto.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/inherit/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/inherit/inherit.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/select/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/select/select.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/slice/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/grammar/slice/append.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/interface/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/interface/interface.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Interview/interface/type.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/error/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/error/error.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/error/error_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/json/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/json/json.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/json/json_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/nil/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/nil/nil.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/nil/nil_test.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/struct/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/struct/struct.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/skill/struct/struct_test.go</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="117823be-00ea-45db-8d02-9f318bab2b63" name="Default" comment="" />
+      <created>1540966752485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540966752485</updated>
+      <workItem from="1540966753921" duration="631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="631000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
