@@ -1,5 +1,5 @@
-#考察select的随机性
-##提问输出结果（代码select.go）
+# 考察select的随机性
+## 提问输出结果（代码select.go）
 结果：
 ````
 [root@vagrant-centos65 test]# go run select.go

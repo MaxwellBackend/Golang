@@ -1,7 +1,7 @@
-#golang语法相关面试题
+# golang语法相关面试题
 ## defer
-###1、提问输出结果（代码defer.go）
-###考察defer执行顺序，defer和panic关系
+### 1、提问输出结果（代码defer.go）
+### 考察defer执行顺序，defer和panic关系
 运行结果： 
 ````
 打印后
@@ -19,8 +19,8 @@ exit status 2
 结论：
 defer严格执行后进先出，panic会等待defer执行完成后抛出异常，未声明defer的panic是不可能捕获到异常的
 
-###2、提问执行结果（代码panic.go）
-###考察panic和defer关系
+### 2、提问执行结果（代码panic.go）
+### 考察panic和defer关系
 运行结果 ：
 ````
 进入f()
@@ -32,8 +32,8 @@ recover 截获的panic err: panic里面的内容
 
 可以看出在执行main函数之后，先进入f()函数，在函数f()中碰到panic,立马去执行defer的内容， 在defer里面碰到了recover函数，截取panic内容，不在继续执行panic及之后的内容
 
-###3、提问执行结果（代码defer2.go）
-###考察defer和函数返回值
+### 3、提问执行结果（代码defer2.go）
+### 考察defer和函数返回值
 运行结果：
 ````
 4

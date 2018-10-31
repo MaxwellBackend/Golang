@@ -1,5 +1,5 @@
-#考察foreach
-##提问输出结果（代码foreach.go）
+# 考察foreach
+## 提问输出结果（代码foreach.go）
 结果：
 ````
 第一个人的名字 => 第三个人的名字
