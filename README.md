@@ -1,6 +1,7 @@
 # Golang
 
 ## 易错知识点
+
 ### algorithm 数据结构和算法相关
 1. [map 线程安全](interview/algorithm/map)
 2. [struct 初始化](interview/algorithm/struct)
@@ -15,6 +16,7 @@
 ### interface 接口相关
 1. [type interface的type](interview/algorithm)
 ## 语言技巧
+
 1. [实现不同格式的JSON数据解析](skill/json/README.md)
 2. [让Error包含更多的错误信息](skill/error/README.md)
 3. [匿名Struct的大用途](skill/struct/README.md)
