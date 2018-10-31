@@ -1,11 +1,11 @@
-#考察interface相关知识
+# 考察interface相关知识
 ## 1、type的使用（type.go）
 结果：
 代码报错
 
 结论：
  type只能用于接口，只可以用interface.(type)来确定接口类型
-##2、考察interface内部结构（interface.go）
+## 2、考察interface内部结构（interface.go）
 结果：
 ````
 not nil
